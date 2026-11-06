@@ -13,4 +13,7 @@ https://github.com/penny1nicole1/vscodepractice
 3. 建立並切換至 `main` 分支。
 4. 暫存所有檔案、生成 Commit 並推送到遠端。 
 
+## 發布網址: 
+https://penny1nicole1.github.io/vscodepractice/
+
 
